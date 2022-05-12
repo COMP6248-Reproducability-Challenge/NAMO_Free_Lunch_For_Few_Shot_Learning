@@ -1,6 +1,6 @@
 # [COMP6248 Reproducibility Challenge 2022] Free Lunch For Few-Shot Learning 
 
-We experimented and debugged using the original author's code, and in this repository we added the files we adjusted during our tests and the plots drawn as a result of our experiments.
+We experimented and debugged using the original author's code, and in this repository we added the files we adjusted during our tests and images of the output result.
 
 ## Original Code
 https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration
